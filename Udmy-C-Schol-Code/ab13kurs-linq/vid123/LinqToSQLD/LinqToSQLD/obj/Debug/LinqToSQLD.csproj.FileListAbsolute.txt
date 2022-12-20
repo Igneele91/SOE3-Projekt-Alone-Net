@@ -1,0 +1,15 @@
+C:\Users\Denis Panjuta\source\repos\LinqToSQLD\LinqToSQLD\bin\Debug\LinqToSQLD.exe.config
+C:\Users\Denis Panjuta\source\repos\LinqToSQLD\LinqToSQLD\bin\Debug\LinqToSQLD.exe
+C:\Users\Denis Panjuta\source\repos\LinqToSQLD\LinqToSQLD\bin\Debug\LinqToSQLD.pdb
+C:\Users\Denis Panjuta\source\repos\LinqToSQLD\LinqToSQLD\obj\Debug\LinqToSQLD.csprojResolveAssemblyReference.cache
+C:\Users\Denis Panjuta\source\repos\LinqToSQLD\LinqToSQLD\obj\Debug\MainWindow.g.cs
+C:\Users\Denis Panjuta\source\repos\LinqToSQLD\LinqToSQLD\obj\Debug\App.g.cs
+C:\Users\Denis Panjuta\source\repos\LinqToSQLD\LinqToSQLD\obj\Debug\LinqToSQLD_MarkupCompile.cache
+C:\Users\Denis Panjuta\source\repos\LinqToSQLD\LinqToSQLD\obj\Debug\LinqToSQLD_MarkupCompile.lref
+C:\Users\Denis Panjuta\source\repos\LinqToSQLD\LinqToSQLD\obj\Debug\MainWindow.baml
+C:\Users\Denis Panjuta\source\repos\LinqToSQLD\LinqToSQLD\obj\Debug\LinqToSQLD.g.resources
+C:\Users\Denis Panjuta\source\repos\LinqToSQLD\LinqToSQLD\obj\Debug\LinqToSQLD.Properties.Resources.resources
+C:\Users\Denis Panjuta\source\repos\LinqToSQLD\LinqToSQLD\obj\Debug\LinqToSQLD.csproj.GenerateResource.cache
+C:\Users\Denis Panjuta\source\repos\LinqToSQLD\LinqToSQLD\obj\Debug\LinqToSQLD.csproj.CoreCompileInputs.cache
+C:\Users\Denis Panjuta\source\repos\LinqToSQLD\LinqToSQLD\obj\Debug\LinqToSQLD.exe
+C:\Users\Denis Panjuta\source\repos\LinqToSQLD\LinqToSQLD\obj\Debug\LinqToSQLD.pdb
