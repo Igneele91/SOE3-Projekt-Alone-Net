@@ -1,0 +1,16 @@
+C:\Users\fabia\source\repos\WPF ZooManager-108-1\WPF ZooManager-108-1\obj\Debug\WPF ZooManager-108-1.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\WPF ZooManager-108-1\WPF ZooManager-108-1\obj\Debug\WPF ZooManager-108-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\WPF ZooManager-108-1\WPF ZooManager-108-1\obj\Debug\MainWindow.g.cs
+C:\Users\fabia\source\repos\WPF ZooManager-108-1\WPF ZooManager-108-1\obj\Debug\App.g.cs
+C:\Users\fabia\source\repos\WPF ZooManager-108-1\WPF ZooManager-108-1\obj\Debug\WPF ZooManager-108-1_MarkupCompile.cache
+C:\Users\fabia\source\repos\WPF ZooManager-108-1\WPF ZooManager-108-1\obj\Debug\WPF ZooManager-108-1_MarkupCompile.lref
+C:\Users\fabia\source\repos\WPF ZooManager-108-1\WPF ZooManager-108-1\bin\Debug\WPF ZooManager-108-1.exe.config
+C:\Users\fabia\source\repos\WPF ZooManager-108-1\WPF ZooManager-108-1\bin\Debug\WPF ZooManager-108-1.exe
+C:\Users\fabia\source\repos\WPF ZooManager-108-1\WPF ZooManager-108-1\bin\Debug\WPF ZooManager-108-1.pdb
+C:\Users\fabia\source\repos\WPF ZooManager-108-1\WPF ZooManager-108-1\obj\Debug\MainWindow.baml
+C:\Users\fabia\source\repos\WPF ZooManager-108-1\WPF ZooManager-108-1\obj\Debug\WPF ZooManager-108-1.g.resources
+C:\Users\fabia\source\repos\WPF ZooManager-108-1\WPF ZooManager-108-1\obj\Debug\WPF_ZooManager_108_1.Properties.Resources.resources
+C:\Users\fabia\source\repos\WPF ZooManager-108-1\WPF ZooManager-108-1\obj\Debug\WPF ZooManager-108-1.csproj.GenerateResource.cache
+C:\Users\fabia\source\repos\WPF ZooManager-108-1\WPF ZooManager-108-1\obj\Debug\WPF ZooManager-108-1.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\WPF ZooManager-108-1\WPF ZooManager-108-1\obj\Debug\WPF ZooManager-108-1.exe
+C:\Users\fabia\source\repos\WPF ZooManager-108-1\WPF ZooManager-108-1\obj\Debug\WPF ZooManager-108-1.pdb
