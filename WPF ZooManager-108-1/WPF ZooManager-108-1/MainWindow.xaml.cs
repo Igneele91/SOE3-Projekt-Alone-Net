@@ -327,15 +327,16 @@ namespace WPF_ZooManager_108_1
             }
 
         }
-        // Warum funktioniert das nicht?
-        private void DeleteAnimal_Click(object sender, RoutedEventArgs e)
+        // Delete Animal from Zoo Button       
+        private void DeleteAnimalFromZoo_Click(object sender, RoutedEventArgs e)
         {
             try
             {
-                string query = "delete from Animal where id = @AnimalId";
+                string query = "delete from ZooAnimal where ZooId = @ZooId and AnimalId = @AnimalId";
                 SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
                 sqlConnection.Open();
-                sqlCommand.Parameters.AddWithValue("@AnimalId", listAllAnimals.SelectedValue);
+                sqlCommand.Parameters.AddWithValue("@ZooId", listZoos.SelectedValue);
+                sqlCommand.Parameters.AddWithValue("@AnimalId", listAssociatedAnimals.SelectedValue);
                 sqlCommand.ExecuteScalar();
             }
             catch (Exception ex)
@@ -346,11 +347,10 @@ namespace WPF_ZooManager_108_1
             finally
             {
                 sqlConnection.Close();
-                ShowAllAnimals();
+                ShowAssociatedAnimals();
             }
+
         }
-
-
 
         private void ListAllAnimals_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
